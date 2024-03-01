@@ -124,7 +124,7 @@
 - 하위 클래스는 상위 클래스가 사용되는 곳에 대체될 수 있어야 한다.
 ### ISP
 - interface segregation principle
-- 클래스는 자신이 사용하지 않안녕하세요.메소드에 의존하면 안된다.
+- 클래스는 자신이 사용하지 않는 메소드에 의존하면 안된다.
 ### DRY / DIP
 - DRY
   - Don't repeat yourself
